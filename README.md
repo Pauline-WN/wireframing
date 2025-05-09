@@ -27,3 +27,12 @@ Here are the core elements of an effective wireframe:
 - Detailed and often include color, images, and typography.
 - Mimic the final UI closely.
 - Used later in the design phase to guide development and get accurate feedback.
+
+## Wireframing Tools
+
+Several tools help create effective wireframes, including:
+
+- **Balsamiq** – Great for quick low-fidelity wireframes.
+- **Adobe XD** – Offers design and prototyping in one.
+- **Sketch** – Popular with macOS users for UI design.
+- **Figma** – A powerful cloud-based design tool known for real-time collaboration, ease of use, and versatility in both wireframing and prototyping.
