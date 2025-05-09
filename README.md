@@ -36,3 +36,13 @@ Several tools help create effective wireframes, including:
 - **Adobe XD** – Offers design and prototyping in one.
 - **Sketch** – Popular with macOS users for UI design.
 - **Figma** – A powerful cloud-based design tool known for real-time collaboration, ease of use, and versatility in both wireframing and prototyping.
+
+
+## Benefits of Wireframing in Software Development
+
+Wireframing offers several advantages:
+
+- **Improved Communication**: Serves as a visual aid to align designers, developers, and stakeholders.
+- **Faster Iterations**: Easier to make changes early in the process before development begins.
+- **Risk Mitigation**: Identifies usability and functionality issues early, saving time and resources.
+- **Better Planning**: Acts as a blueprint that guides development teams through structured design choices.
