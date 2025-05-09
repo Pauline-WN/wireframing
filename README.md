@@ -5,6 +5,7 @@ Wireframing is a foundational step in the UI/UX design process. It involves crea
 
 Wireframes help designers, developers, and stakeholders visualize and align on layout, user flows, and key features, reducing miscommunication and development risks.
 
+
 ## Key Elements of Wireframing
 
 Here are the core elements of an effective wireframe:
@@ -13,3 +14,16 @@ Here are the core elements of an effective wireframe:
 - **Navigation**: Guides users through the interface. Example: top nav bars, side menus, breadcrumb trails.
 - **Content Placement**: Indicates where text, images, and media will appear. Example: placing a hero image at the top for visual engagement.
 - **Functionality**: Represents interactive components. Example: buttons, forms, and modals to simulate user interaction.
+
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+- Simple, often black-and-white sketches.
+- Focus on structure and layout, not design details.
+- Used early in the design process to explore ideas quickly.
+
+### High-Fidelity Wireframes
+- Detailed and often include color, images, and typography.
+- Mimic the final UI closely.
+- Used later in the design phase to guide development and get accurate feedback.
